@@ -88,14 +88,3 @@ console.print("[bold red]-[/bold red]" * 50)
 console.print("[bold blue]Source | Destination | Port | Protocol[/bold blue]")
 # call the sniffer function
 sniffer()
-
-
-
-
-
-
-
-
-     
-
-
